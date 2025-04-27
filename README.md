@@ -1,17 +1,6 @@
 # Plant Growth Analysis Based on Pollution Metrics
 This repository explores the relationship between plant growth and various environmental factors across different locations. The study examines soil moisture, temperature, air quality, total dissolved solids (TDS), plant height, and the impact of location-based pollution levels on these variables.
 
-## Features Analyzed
-Soil Moisture (SM): Evaluated for variation across locations using ANOVA and Tukey tests.
-
-Temperature (Temp): Examined for its influence on plant height.
-
-Air Quality (AirQuality): Investigated for its effect on plant health.
-
-Total Dissolved Solids (TDS): Assessed for interaction effects with other variables.
-
-Plant Height (Height): Used as a dependent variable in regression models to predict growth based on the environmental factors.
-
 ## Methodology
 ### Multivariate Analysis
 Performed a MANOVA to assess the combined impact of predictors on the dependent variables:
