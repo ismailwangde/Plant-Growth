@@ -33,9 +33,6 @@ Applied regularization with alpha=800.
 
 Coefficients: [-1.44, -1.25, 1.01, 4.37]
 
-### Cross-Validation
-Used 10-fold cross-validation to evaluate model performance with negative mean squared error as the metric.
-
 ### Feature Engineering and Model Optimization
 Created dummy variables for categorical data (Location, TDS).
 
